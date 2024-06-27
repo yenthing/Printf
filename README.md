@@ -62,4 +62,4 @@ To create a comprehensive test suite for `ft_printf()`, we need to cover all man
 
 By covering these test cases, you ensure that your `ft_printf()` implementation correctly handles all specified functionalities and edge cases.
 
-## LUCK be you in THESE TESTS 🙈
+## LUCK be with you in THESE TESTS 🙈
