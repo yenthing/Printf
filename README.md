@@ -40,7 +40,7 @@ To create a comprehensive test suite for `ft_printf()`, we need to cover all man
 
 ## Bonus Test Cases 
 
-  ### FYI: I did not do the bonus at that point but there are some tests, which can help you much 🌝
+  ### FYI: I did not do the bonus at that point but there are some tests, which would help you much 🌝
 
 1. **Flags `-0.` and Field Width**:
     - Left-justify: `ft_printf("Left-justify: %-10d!\n", 123);` should print `Left-justify: 123       !`.
